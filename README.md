@@ -16,3 +16,25 @@ This project presents an interactive Sales & Revenue Analysis Dashboard built us
 ## Dashboard Preview
 
 ![Dashboard](dashboard-preview.png)
+## Tools & Technologies
+
+- Tableau Public
+- GitHub
+- CSV Dataset
+- Data Visualization
+- Business Intelligence (BI)
+
+## Dataset
+
+- Superstore Sales Dataset
+
+## Key Insights
+
+- Total Sales: 2,261,537
+- Year-wise Sales Trend
+- Category-wise Sales Comparison
+- Top 10 Best Selling Products
+
+## Dashboard Preview
+
+![Dashboard](Dshboard.png)
